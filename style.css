@@ -1,0 +1,24 @@
+th, td {
+	padding: 0px;
+	spacing: 0px;
+	margin: 0px;
+}
+.topbar {
+	border-spacing: 0px;
+	border-collapse: collapse;
+	margin-bottom: 0px;
+}
+.topbar img {
+	display: block; /* Eliminate inline spacing */
+	margin: 0;
+	padding: 0;
+}
+hr {
+	margin-top: 0px;
+}
+h1 {
+	font-size:24px;
+	font-family:verdana;
+	color: #660000;
+	margin: 0px;
+}
