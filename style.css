@@ -1,6 +1,5 @@
 th, td {
 	padding: 0px;
-	spacing: 0px;
 	margin: 0px;
 }
 .topbar {
@@ -21,4 +20,7 @@ h1 {
 	font-family:verdana;
 	color: #660000;
 	margin: 0px;
+}
+ul {
+	list-style-image: url("tabs/dot.png");
 }
