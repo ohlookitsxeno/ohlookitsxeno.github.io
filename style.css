@@ -20,7 +20,14 @@ h1 {
 	font-family:verdana;
 	color: #660000;
 	margin: 0px;
+	display: inline;
+}
+h2, h3, h4 {
+	display: inline;
 }
 ul {
 	list-style-image: url("tabs/dot.png");
+}
+a:link, a:visited, a:hover, a:active {
+	color: #d00
 }
